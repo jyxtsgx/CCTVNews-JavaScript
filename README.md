@@ -24,5 +24,7 @@
 <img src="screenshot/snst_02.png" alt="项目截图2">
 <img src="screenshot/snst_03.png" alt="项目截图3">
 <img src="screenshot/snst_05.png" alt="项目截图5">
+&nbsp;&nbsp;
 <img src="screenshot/snst_06.png" alt="项目截图6">
+&nbsp;&nbsp;
 <img src="screenshot/snst_04.png" alt="项目截图4">
