@@ -20,13 +20,14 @@
   <li>整个项目业务流程设置</li>
 </ul>
 <h3>webapp项目截图：</h3>
-<img src="screenshot/snst_01.png" alt="项目截图1">
+<img src="screenshot/snst_01.png" alt="项目截图1" width="285" height="504">
 &nbsp;
-<img src="screenshot/snst_02.png" alt="项目截图2">
+<img src="screenshot/snst_02.png" alt="项目截图2" width="285" height="504">
 &nbsp;
-<img src="screenshot/snst_03.png" alt="项目截图3">
-<img src="screenshot/snst_05.png" alt="项目截图5">
+<img src="screenshot/snst_03.png" alt="项目截图3" width="285" height="504">
+
+<img src="screenshot/snst_05.png" alt="项目截图5" width="285" height="504">
 &nbsp;
-<img src="screenshot/snst_06.png" alt="项目截图6">
+<img src="screenshot/snst_06.png" alt="项目截图6" width="285" height="504">
 &nbsp;
-<img src="screenshot/snst_04.png" alt="项目截图4">
+<img src="screenshot/snst_04.png" alt="项目截图4" width="285" height="504">
