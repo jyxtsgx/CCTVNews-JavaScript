@@ -21,7 +21,9 @@
 </ul>
 <h3>webapp项目截图：</h3>
 <img src="screenshot/snst_01.png" alt="项目截图1">
+&nbsp;
 <img src="screenshot/snst_02.png" alt="项目截图2">
+&nbsp;
 <img src="screenshot/snst_03.png" alt="项目截图3">
 <img src="screenshot/snst_05.png" alt="项目截图5">
 &nbsp;
