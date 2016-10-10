@@ -26,8 +26,8 @@
 &nbsp;
 <img src="screenshot/snst_05.png" alt="项目截图5" width="285" height="504">
 
-<img src="screenshot/snst_03.png" alt="项目截图3" width="285" height="504">
-&nbsp;
 <img src="screenshot/snst_06.png" alt="项目截图6" width="285" height="504">
+&nbsp;
+<img src="screenshot/snst_03.png" alt="项目截图3" width="285" height="504">
 &nbsp;
 <img src="screenshot/snst_04.png" alt="项目截图4" width="285" height="504">
